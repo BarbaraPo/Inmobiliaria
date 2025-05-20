@@ -16,15 +16,15 @@ for (let venta of propiedades_venta) {
                         <i class="fas fa-bath"></i> ${venta.banios}
                     </p>
                     <p><i class="fas fa-dollar-sign"></i> ${venta.costo}</p>
-                    <p class="${venta.smoke ? 'text success':'text-danger'}">
-                    ${venta.smoke 
-                        ? '<i class="fas fa-smoking"></i>Se permite fumar'
-                        : '<i class="fas fa-smoking-ban"></i>No se permite fumar'}
+                    <p class="${venta.smoke ? 'text success' : 'text-danger'}">
+                    ${venta.smoke
+            ? '<i class="fas fa-smoking"></i>Se permite fumar'
+            : '<i class="fas fa-smoking-ban"></i>No se permite fumar'}
                     </p>
-                    <p class="${venta.pets ?'text-success' : 'text-danger'}">
+                    <p class="${venta.pets ? 'text-success' : 'text-danger'}">
                         ${venta.pets
-                         ? '<i class="fas fa paw-"></i> Se permiten mascotas'
-                         : '<i class="fas fa-ban"></i> No se permiten mascotas'}
+            ? '<i class="fas fa-paw"></i> Se permiten mascotas'
+            : '<i class="fas fa-ban"></i> No se permiten mascotas'}
                     </p>
                 </div>
             </div> 

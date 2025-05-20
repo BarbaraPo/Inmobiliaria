@@ -1,4 +1,4 @@
-const propiedades_venta= [
+const propiedades_venta = [
     {
         nombre: 'Departamento Central',
         src: 'https://cdn.ara.com.mx/production/images/desarrollos/ciudad-de-mexico/refugio-santa-fe/departamentos-tipo-c/gallery/1.webp',
@@ -16,7 +16,7 @@ const propiedades_venta= [
         descripcion: 'Espaciosa casa perfecta para familias grandes.',
         ubicacion: 'Guadalajara, Jalisco',
         habitaciones: 4,
-        banios:2,
+        banios: 2,
         costo: 15000,
         smoke: true,
         pets: true
@@ -57,59 +57,59 @@ const propiedades_venta= [
 ];
 const propiedades_alquiler = [
 
-  {
-    nombre: 'Departamento Vista al Mar',
-    src: 'https://cf.bstatic.com/xdata/images/hotel/max1024x768/346084418.jpg?k=55f67ea985851b86596d6d0837f0144aee47fc6d5e04e051223fde9711c8f269&o=&hp=1',
-    descripcion: 'Hermoso departamento con vista panorámica al mar.',
-    ubicacion: 'Acapulco, Guerrero',
-    habitaciones: 3,
-    banios:2,
-    costo: 12000,
-    smoke: false,
-    pets: true
-  },
-  {
-    nombre: 'Cabaña en el Bosque',
-    src: 'https://a0.muscache.com/im/pictures/miso/Hosting-793480119171162558/original/1fc1eff0-99c0-4dc9-a0f0-47bf170f4fba.jpeg?im_w=720',
-    descripcion: 'Cabaña rodeada de naturaleza, ideal para desconectar.',
-    ubicacion: 'Valle de Bravo, Estado de México',
-    habitaciones: 2,
-    banios: 1,
-    costo: 7000,
-    smoke: true,
-    pets: true
-  },
-  {
-    nombre: 'Penthouse Urbano',
-    src: 'https://a0.muscache.com/im/pictures/cb0855be-dd67-4a79-809f-d99df0da232b.jpg?im_w=720',
-    descripcion: 'Penthouse de lujo en zona exclusiva con terraza privada.',
-    ubicacion: 'Santa Fe, CDMX',
-    habitaciones: 3,
-    banios:1,
-    costo: 25000,
-    smoke: false,
-    pets: false
-  },
-  {
-    nombre: 'Mini Loft Estudiantil',
-    src: 'https://a0.muscache.com/im/pictures/405f6a84-f440-440b-9aca-ce7baed4b0e6.jpg?im_w=720',
-    descripcion: 'Ideal para estudiantes, cerca de universidades y transporte.',
-    ubicacion: 'San Nicolás, Nuevo León',
-    habitaciones: 1,
-    banios: 1,
-    costo: 5000,
-    smoke: false,
-    pets: false
-  },
-  {
-    nombre: 'Casa Colonial',
-    src: 'https://cf.bstatic.com/xdata/images/hotel/max1024x768/366804196.jpg?k=1d9bc0f649b665c0ecf6b0e07c74a94bda56774862c633968300ddfb9543410e&o=&hp=1',
-    descripcion: 'Casa con estilo colonial mexicano y amplio jardín.',
-    ubicacion: 'San Miguel de Allende, Guanajuato',
-    habitaciones: 4,
-    banios: 2,
-    costo: 18000,
-    smoke: true,
-    pets: true
-  }
+    {
+        nombre: 'Departamento Vista al Mar',
+        src: 'https://cf.bstatic.com/xdata/images/hotel/max1024x768/346084418.jpg?k=55f67ea985851b86596d6d0837f0144aee47fc6d5e04e051223fde9711c8f269&o=&hp=1',
+        descripcion: 'Hermoso departamento con vista panorámica al mar.',
+        ubicacion: 'Acapulco, Guerrero',
+        habitaciones: 3,
+        banios: 2,
+        costo: 12000,
+        smoke: false,
+        pets: true
+    },
+    {
+        nombre: 'Cabaña en el Bosque',
+        src: 'https://a0.muscache.com/im/pictures/miso/Hosting-793480119171162558/original/1fc1eff0-99c0-4dc9-a0f0-47bf170f4fba.jpeg?im_w=720',
+        descripcion: 'Cabaña rodeada de naturaleza, ideal para desconectar.',
+        ubicacion: 'Valle de Bravo, Estado de México',
+        habitaciones: 2,
+        banios: 1,
+        costo: 7000,
+        smoke: true,
+        pets: true
+    },
+    {
+        nombre: 'Penthouse Urbano',
+        src: 'https://a0.muscache.com/im/pictures/cb0855be-dd67-4a79-809f-d99df0da232b.jpg?im_w=720',
+        descripcion: 'Penthouse de lujo en zona exclusiva con terraza privada.',
+        ubicacion: 'Santa Fe, CDMX',
+        habitaciones: 3,
+        banios: 1,
+        costo: 25000,
+        smoke: false,
+        pets: false
+    },
+    {
+        nombre: 'Mini Loft Estudiantil',
+        src: 'https://a0.muscache.com/im/pictures/405f6a84-f440-440b-9aca-ce7baed4b0e6.jpg?im_w=720',
+        descripcion: 'Ideal para estudiantes, cerca de universidades y transporte.',
+        ubicacion: 'San Nicolás, Nuevo León',
+        habitaciones: 1,
+        banios: 1,
+        costo: 5000,
+        smoke: false,
+        pets: false
+    },
+    {
+        nombre: 'Casa Colonial',
+        src: 'https://cf.bstatic.com/xdata/images/hotel/max1024x768/366804196.jpg?k=1d9bc0f649b665c0ecf6b0e07c74a94bda56774862c633968300ddfb9543410e&o=&hp=1',
+        descripcion: 'Casa con estilo colonial mexicano y amplio jardín.',
+        ubicacion: 'San Miguel de Allende, Guanajuato',
+        habitaciones: 4,
+        banios: 2,
+        costo: 18000,
+        smoke: true,
+        pets: true
+    }
 ];
